@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.newprojectcpp-11590370.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "F:/UE4Project/UE4_24/NewProjectCpp/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "G:/Github/MyProject/MyProject/NewProjectCpp/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
